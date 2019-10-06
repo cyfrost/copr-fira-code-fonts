@@ -9,7 +9,7 @@ Summary:        Monospaced font with programming ligatures
 License:        OFL
 URL:            https://github.com/tonsky/FiraCode
 Source0:        https://github.com/tonsky/FiraCode/releases/download/%{version}/FiraCode_%{version}.zip
-Source1:        https://raw.githubusercontent.com/cyfrost/dotfiles/master/fira-code-fonts-fontconfig.conf
+Source1:        https://raw.githubusercontent.com/cyfrost/copr-fira-code-fonts/master/fira-code-fonts-fontconfig.conf
 Source2:        https://raw.githubusercontent.com/tonsky/FiraCode/master/LICENSE
 
 BuildArch:      x86_64
