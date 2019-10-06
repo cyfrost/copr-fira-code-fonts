@@ -12,7 +12,7 @@ Source0:        https://github.com/tonsky/FiraCode/releases/download/%{version}/
 Source1:        https://raw.githubusercontent.com/cyfrost/copr-fira-code-fonts/master/fira-code-fonts-fontconfig.conf
 Source2:        https://raw.githubusercontent.com/tonsky/FiraCode/master/LICENSE
 
-BuildArch:      x86_64
+BuildArch:      noarch
 
 BuildRequires:  fontpackages-devel
 BuildRequires:  libappstream-glib
